@@ -1,2 +1,2 @@
 # vibrationtester
-A little app to test your phone's tactic engine.
+A little app to test your phone's Tapic engine.
